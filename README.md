@@ -1,0 +1,2 @@
+# projectrade
+latihan git hub
